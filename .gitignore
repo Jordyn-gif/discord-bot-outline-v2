@@ -1,4 +1,5 @@
-*
-!/source/
-!package.json
-!.gitignore
+.config
+.git
+/.upm/
+/node_modules/
+package-lock.json
